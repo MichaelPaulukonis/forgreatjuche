@@ -383,5 +383,10 @@ var searchTerms = [
     "hermit kingdom",
     "demilitarized zone",
     "Korean People's Army",
-    "Nordpolitik"
+    "Nordpolitik",
+    "paradise",
+    "utopia",
+    "emerald city",
+    "self-criticism",
+    "meat eggs and milk"
 ];

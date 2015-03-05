@@ -100,7 +100,7 @@ var launchSearch = function() {
 
     // console.log('slogan: ' + mart);
     // imageSearch.execute(mart + ' North Korea -twitter -tweet');
-    var searchTerm = _.sample(searchTerms);
+    var searchTerm = _.sample(searchTerms) + ' ' + _.sample(searchTerms);
     console.log('search term: ' + searchTerm);
     imageSearch.execute(searchTerm);
 };
